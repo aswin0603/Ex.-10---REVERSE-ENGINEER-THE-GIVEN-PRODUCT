@@ -32,8 +32,11 @@
 
 ## Input:
 
+![378050715-b4fe6210-9d98-43de-869e-05f66980e7b3](https://github.com/user-attachments/assets/b2ea321e-84e3-4af7-99b3-59fa113e4ded)
+
 ### Output:
 ![Screenshot 2024-11-29 095318](https://github.com/user-attachments/assets/502a45ab-03e6-4951-854c-a84c602f0328)
+![Screenshot 2024-11-29 124700](https://github.com/user-attachments/assets/5ac9522f-0e37-41a6-aa6a-05b09fa48f7a)
 
 
 
