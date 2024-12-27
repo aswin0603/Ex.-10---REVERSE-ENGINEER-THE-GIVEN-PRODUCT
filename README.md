@@ -1,6 +1,6 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex. No. 04  - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 29 - 11 - 2024
+### DATE: 29/11/2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -42,7 +42,7 @@
 
 
 ### Name: ASWIN B
-### Register Number:24900642
+### Register Number: 212224110007
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
